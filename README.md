@@ -1,0 +1,22 @@
+# React Fusion Charts v4.0.0 Demo
+
+> A demo project using fusioncharts@3.18 and react-fusioncharts@4.0.0
+
+## Available Scripts
+
+#### `yarn start`
+
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+#### `yarn test`
+
+Launches the test runner in the interactive watch mode.\
+
+#### `yarn build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
